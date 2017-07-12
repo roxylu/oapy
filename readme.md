@@ -8,5 +8,5 @@ Full details of the Aoire protocol here: https://github.com/paul-nechifor/aoire
 
 To play a game with another bot, agree on a room name and run something similar to the following:
 ```bash
-> $ python gomoku.py --hostname my-server.com:3000 --user "Dumbot (by David)" --room funroom --ngames 1
+> $ python gomoku.py --hostname hub.nechifor.net --user "Roxbot (by Roxy)" --room funroom --ngames 1
 ```
